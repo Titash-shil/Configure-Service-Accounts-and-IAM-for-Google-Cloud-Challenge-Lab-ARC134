@@ -11,11 +11,12 @@
 
 ```
 
-curl -LO raw.githubusercontent.com/Titash-shil/Configuring-Network-Connectivity-Center-as-a-Transit-Hub-GSP911/refs/heads/main/qwiklab_explorers_ts_gsp911.sh
+curl -LO raw.githubusercontent.com/Titash-shil/Configure-Service-Accounts-and-IAM-for-Google-Cloud-Challenge-Lab-ARC134/refs/heads/main/qwiklab_explorers_ts_arc134.sh
 
-sudo chmod +x qwiklab_explorers_ts_gsp911.sh
+sudo chmod +x qwiklab_explorers_ts_arc134.sh
 
-./qwiklab_explorers_ts_gsp911.sh
+./qwiklab_explorers_ts_arc134.sh
+
 ```
 
 ---
